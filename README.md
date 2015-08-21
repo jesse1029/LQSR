@@ -1,9 +1,7 @@
 Program: Single Image Super-Resolution of a Highly Compressed Image
 Authors: Chih-Chung Hsu (m121754@gmail.com)
 Citation format: 
-L.W. Kang, B.C. Chuang, C.C. Hsu, C.W. Lin, and C.H. Yeh, 
-°ßSelf-Learning-Based Single Image Super-Resolution of a Highly Compressed Image,°® 
-in Proc. IEEE Workshop Multimedia Signal Processing (MMSP), Sept. 2013, Sardina, Italy..
+L.W. Kang, C.C. Hsu, B.Q. Zhuang, C.W. Lin, and C.H. Yeh, ‚ÄúLearning-based joint super-resolution and deblocking for a highly compressed image,‚Äù IEEE Transactions on Multimedia, vol. 17, no. 7,  pp. 921‚àí934,  July 2015.
 
 ====================================================================
 
